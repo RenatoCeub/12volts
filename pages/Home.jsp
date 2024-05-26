@@ -321,7 +321,7 @@ function pesquisarBateriasPorVeiculo(){
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #E65100;">
-																R$ 420,00
+																R$ 430,00
 															</font>
 														</td>
 													</tr>
@@ -370,14 +370,14 @@ function pesquisarBateriasPorVeiculo(){
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #3A3B3C; text-decoration: line-through;">
-																R$ 690,00
+																R$ 890,00
 															</font>
 														</td>
 													</tr>
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #E65100;">
-																R$ 625,00
+																R$ 826,00
 															</font>
 														</td>
 													</tr>
@@ -433,7 +433,7 @@ function pesquisarBateriasPorVeiculo(){
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #E65100;">
-																R$ 440,00
+																R$ 430,00
 															</font>
 														</td>
 													</tr>
@@ -482,14 +482,14 @@ function pesquisarBateriasPorVeiculo(){
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #3A3B3C; text-decoration: line-through;">
-																R$ 395,00
+																R$ 449,00
 															</font>
 														</td>
 													</tr>
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #E65100;">
-																R$ 365,00
+																R$ 429,00
 															</font>
 														</td>
 													</tr>
@@ -538,14 +538,14 @@ function pesquisarBateriasPorVeiculo(){
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #3A3B3C; text-decoration: line-through;">
-																R$ 376,00
+																R$ 419,00
 															</font>
 														</td>
 													</tr>
 													<tr>
 														<td>
 															<font style="font-family: Verdana; font-size: 10; font-weight: bold; color: #E65100;">
-																R$ 339,00
+																R$ 390,00
 															</font>
 														</td>
 													</tr>
